@@ -1,0 +1,28 @@
+{
+  "name": "express-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhulamMustafaGM/express-mvc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhulamMustafaGM/express-mvc/issues"
+  },
+  "homepage": "https://github.com/GhulamMustafaGM/express-mvc#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^2.27.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
